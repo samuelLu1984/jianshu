@@ -1,0 +1,6 @@
+export   const CHANGE_FOCUSED='header/CHANGE_FOCUSED'
+export   const CHANGE_BLUR='header/CHANGE_BLUR'
+export   const MOVE_IN='header/MOVE_IN'
+export   const MOVE_OUT='header/MOVE_OUT'
+export   const INIT_SEACH='header/INIT_SEACH'
+export   const CHANGE_PAGE='header/CHANGE_PAGE'
